@@ -1,6 +1,4 @@
 # mikuam
- The Miku and More website. Hosted at https://mikuam.uk
+ The Miku and More website. Hosted at https://mikuam.uk with https://hackclub.app
 
- Languages:
-* HTML
-* CSS
+Supports all major browser engines, made in true and pure HTML, CSS and JavaScript.
